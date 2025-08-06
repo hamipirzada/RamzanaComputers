@@ -15,25 +15,25 @@ const HeroCarousel: React.FC = () => {
   const slides: Slide[] = [
     {
       id: 1,
-      image: 'https://www.ramzanacomputers.com/images/slider/slider-1.jpg',
+      image: 'https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
       title: 'Transform Your Career with Professional Training',
       subtitle: 'Master essential computer skills and earn government-recognized certifications at Ramzana Computers in Jammu & Kashmir.'
     },
     {
       id: 2,
-      image: 'https://www.ramzanacomputers.com/images/slider/slider-2.jpg',
+      image: 'https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
       title: 'Expert Instructors, Proven Methods',
       subtitle: 'Learn from experienced professionals with hands-on training in modern computer labs equipped with latest technology.'
     },
     {
       id: 3,
-      image: 'https://www.ramzanacomputers.com/images/slider/slider-3.jpg',
+      image: 'https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
       title: 'Government-Recognized Certifications',
       subtitle: 'Boost your career prospects with ACC, BCC, CCC, CCC+, and ECC certifications that employers trust and value.'
     },
     {
       id: 4,
-      image: 'https://www.ramzanacomputers.com/images/slider/slider-4.jpg',
+      image: 'https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
       title: '100% Job-Ready Training Programs',
       subtitle: 'From data entry to technical skills, our comprehensive courses prepare you for immediate employment opportunities.'
     }
